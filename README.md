@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Barney Sophia!
+👋 Hi, I'm Barney Sophia! </br>
 🔭 I'm currently working as a Business Analytics Intern at Cognifyz Technologies </br>
 👩‍🎓 Master's in Computer Science graduate specializing in Data Analytics </br>
 🌱 I'm currently learning data storytelling </br>
