@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Barneysophia
+### Hi, I'm Barney Sophia!
 
+🔭 I'm currently working as a Business Analytics Intern at Cognifyz Technologies </br>
+👩‍🎓 Master's in Computer Science graduate specializing in Data Analytics </br>
+🌱 My experience as an Information Technology Recruiter and Computer Instructor highlighted the power of data in making informed decisions, leading me to specialize in Data Analytics </br>
 
-<!---
-Barneysophia/Barneysophia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Favorite Quote
+My favorite quote is:
+> "The goal is to turn data into information, and information into insight." – Carly Fiorina
