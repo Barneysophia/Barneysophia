@@ -7,3 +7,5 @@
 ## Favorite Quote
 My favorite quote is:
 > "The goal is to turn data into information, and information into insight." – Carly Fiorina
+
+[![Barneysophia's GitHub stats](https://github-readme-stats.vercel.app/api?username=barneysophia)](https://github.com/barneysophia/github-readme-stats)
